@@ -23,9 +23,9 @@ Deep Neural Network, design, implementation, training and testing - .ipynb
 
 
 For any question/suggestion, please feel free to approach us @:
-Yishaia Zabary - yshaayz@gmail.com
-Dan Avraham - dan.avraham23@gmail.com
-Yizhak Veisman - aitzikvais@gmail.com
+- Yishaia Zabary - yshaayz@gmail.com
+- Dan Avraham - dan.avraham23@gmail.com
+- Yizhak Veisman - aitzikvais@gmail.com
 
 This code is open-source and free for all to use under the GPL V3 license.
 ![GPLV3](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)
