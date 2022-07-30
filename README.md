@@ -15,7 +15,8 @@ and word embeddings using [BERT](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrh
 The entire process and a comprehensive report about the framework and results can be found in the "report.pdf" found in this repository.
 
 Notebooks found in this repository were implemented and meant for use in google colab. 
-They are divided into the report sections://
+They are divided into the report sections:
+
 Raw IRA data preprocessing and initial exploration - 'Data_NLPSD.ipynb'
 
 Twitter API scraping for additional users information - 'TwitterAPI For Users Description.ipynb'
