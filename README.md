@@ -16,7 +16,7 @@ The entire process and a comprehensive report about the framework and results ca
 
 Notebooks found in this repository were implemented and meant for use in google colab. 
 They are divided into the report sections:
-Raw IRA data preprocessing and initial exploration - 'Data_NLPSD.ipynb'
+Raw IRA data preprocessing, initial exploration and content embeddings extraction using distil-bert - 'Data_NLPSD.ipynb'
 Twitter API scraping for additional users information - 'TwitterAPI For Users Description.ipynb'
 EDA Exploratory Data Analysis (including graph construction) - 'DataExploration.ipynb'
 Content and graph embeddings - 'node2vec.ipynb'
